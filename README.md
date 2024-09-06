@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... sports
 - 🌱 I’m currently learning ... Linux
 - 💞️ I’m looking to collaborate on ... schoole
-- 📫 How to reach me ... roninm33
+- 📫 How to reach me ... ronin.molitor@gmail.com
 - ⚡ Fun fact: ... i have 9 siblings
 
 <!---
